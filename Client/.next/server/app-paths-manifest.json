@@ -1,0 +1,9 @@
+{
+  "/contactus/page": "app/contactus/page.js",
+  "/education/page": "app/education/page.js",
+  "/e-facilities/page": "app/e-facilities/page.js",
+  "/page": "app/page.js",
+  "/recycle/page": "app/recycle/page.js",
+  "/rules/page": "app/rules/page.js",
+  "/about/page": "app/about/page.js"
+}
